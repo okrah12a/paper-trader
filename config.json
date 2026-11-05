@@ -1,0 +1,23 @@
+{
+  "startEq": 10000,
+  "risk": 1,
+  "tf": "4h",
+  "stopMult": 3,
+  "tpMult": 3,
+  "maxPos": 20,
+  "exitMode": "trail",
+  "shortsCrypto": false,
+  "shortsForex": true,
+  "enabled": {
+    "BTCUSDT": true,
+    "ETHUSDT": true,
+    "SOLUSDT": true,
+    "BNBUSDT": true,
+    "XRPUSDT": true,
+    "EURUSD": true,
+    "GBPUSD": true,
+    "USDJPY": true,
+    "AUDUSD": true,
+    "USDCAD": true
+  }
+}
